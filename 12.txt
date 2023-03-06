@@ -1,5 +1,9 @@
 12
 new branck line
+<<<<<<< HEAD
 123
 add one line
 newone
+=======
+asdasda
+>>>>>>> f48161fe21acf05671d9f9d5e1e0ed555c12328e
