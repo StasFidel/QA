@@ -1,3 +1,7 @@
 12
 new branck line
+<<<<<<< HEAD
 123
+=======
+add one line
+>>>>>>> newone
